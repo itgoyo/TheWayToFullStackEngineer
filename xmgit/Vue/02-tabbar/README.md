@@ -1,4 +1,4 @@
-# 01-learnvuerouter
+# 02-tabbar
 
 > A Vue.js project
 
@@ -19,7 +19,3 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-
-生命周期回顾：
-keep-alive -> activated/deactivated
-首页中使用path属性记录离开时的路径，在beforeRouteLeave中记录
