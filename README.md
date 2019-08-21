@@ -20,7 +20,9 @@
 ## 个人推荐的视频教程：
 - 刘意的 Java 基础 链接:https://pan.baidu.com/s/1CNCDE1GrYVy70-TxyyhQ1g  密码:2hgj
 
-2019-8-14第一天
+## Awesome-Vue
+https://github.com/vuejs/awesome-vue
+
 
 黑马培训上面的 H5全栈学习路线
 ![](https://raw.githubusercontent.com/itgoyo/PicGoRes/master/img/20190814175638.png)
